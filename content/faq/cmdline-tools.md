@@ -19,7 +19,7 @@ Think of ```les``` as an architect-in-a-box.
 
 ### les-node
 
-[les-node](https://github.com/Adaptech/les/tree/master/cmd/les-node) builds an event sourced NodeJS API from EML.
+[les-node](https://github.com/robertreppel/les/tree/master/cmd/les-node) builds an event sourced NodeJS API from EML.
 
 ### les-viz
 
